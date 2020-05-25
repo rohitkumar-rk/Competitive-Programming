@@ -1,0 +1,14 @@
+Problem URL : https://leetcode.com/explore/learn/card/data-structure-tree/134/traverse-a-tree/928/
+
+Given a binary tree, return the preorder traversal of its nodes' values.
+
+Example:
+
+Input: [1,null,2,3]
+   1
+    \
+     2
+    /
+   3
+
+Output: [1,2,3]
