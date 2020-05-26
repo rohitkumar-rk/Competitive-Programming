@@ -23,7 +23,7 @@ class Node {
 
 class Solution {
     
-    public Node connectHelper(Node root){
+    public Node connect(Node root) {
         //Case for empty tree or leaf node
         if(root == null || root.left == null)
             return root;
@@ -34,12 +34,9 @@ class Solution {
             root.right.next = root.next.left;
         
         //Recursively call for lst and rst
-        connectHelper(root.left);
-        connectHelper(root.right);
+        connect(root.left);
+        connect(root.right);
         return root;
     }
     
-    public Node connect(Node root) {
-        return connectHelper(root);
-    }
 }
