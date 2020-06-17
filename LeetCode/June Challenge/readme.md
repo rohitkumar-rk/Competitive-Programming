@@ -1,4 +1,4 @@
-# LeetCode June Challenge 2020
+# [LeetCode June Challenge 2020](https://github.com/rohitkumar-rk/Problem-Solving/tree/master/LeetCode/June%20Challenge)
 
 
 | #             | Problem Statement| Solution (Java) |
