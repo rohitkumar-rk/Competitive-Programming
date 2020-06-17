@@ -11,6 +11,15 @@
 | Day 6 | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | [Solution](https://github.com/rohitkumar-rk/Problem-Solving/blob/master/LeetCode/June%20Challenge/6.%20Queue%20Reconstuction%20by%20Height/Solution.java) |
 | Day 7 | [Coin Change 2](https://leetcode.com/problems/coin-change-2/) | [Solution](https://github.com/rohitkumar-rk/Problem-Solving/blob/master/LeetCode/June%20Challenge/7.%20Coin%20Change%202/Solution.java) |
 | Day 8 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [Solution](https://github.com/rohitkumar-rk/Problem-Solving/blob/master/LeetCode/June%20Challenge/8.%20Power%20of%202/Solution.java) |
-| Day 9 | []() | [Solution]() |
+| Day 9 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Solution](https://github.com/rohitkumar-rk/Problem-Solving/blob/master/LeetCode/June%20Challenge/9.%20Is%20Subsequence/Solution.java) |
+| Day 10 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Solution](https://github.com/rohitkumar-rk/Problem-Solving/blob/master/LeetCode/June%20Challenge/10.%20Search%20Insert%20at%20Position/Solution.java) |
+| Day 11 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Solution](https://github.com/rohitkumar-rk/Problem-Solving/blob/master/LeetCode/June%20Challenge/11.%20Sort%20Colors/Solution.java) |
+| Day 12 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Solution](https://github.com/rohitkumar-rk/Problem-Solving/blob/master/LeetCode/June%20Challenge/12.%20Insert%20Delete%20GetRandom%20O(1)/Solution.java) |
+| Day 13 | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | [Solution]() |
+| Day 14 | []() | [Solution]() |
+| Day 15 | []() | [Solution]() |
+| Day 16 | []() | [Solution]() |
+| Day 17 | []() | [Solution]() |
+| Day 18 | []() | [Solution]() |
 
 
