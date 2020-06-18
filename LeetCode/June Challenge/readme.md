@@ -15,11 +15,11 @@
 | Day 10 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Solution](https://github.com/rohitkumar-rk/Problem-Solving/blob/master/LeetCode/June%20Challenge/10.%20Search%20Insert%20at%20Position/Solution.java) |
 | Day 11 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Solution](https://github.com/rohitkumar-rk/Problem-Solving/blob/master/LeetCode/June%20Challenge/11.%20Sort%20Colors/Solution.java) |
 | Day 12 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Solution](https://github.com/rohitkumar-rk/Problem-Solving/blob/master/LeetCode/June%20Challenge/12.%20Insert%20Delete%20GetRandom%20O(1)/Solution.java) |
-| Day 13 | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | [Solution]() |
-| Day 14 | []() | [Solution]() |
-| Day 15 | []() | [Solution]() |
-| Day 16 | []() | [Solution]() |
-| Day 17 | []() | [Solution]() |
-| Day 18 | []() | [Solution]() |
+| Day 13 | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | [Solution](https://github.com/rohitkumar-rk/Problem-Solving/blob/master/LeetCode/June%20Challenge/13.%20Largest%20Divisible%20Subset/Solution.java) |
+| Day 14 | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | [Solution](https://github.com/rohitkumar-rk/Problem-Solving/blob/master/LeetCode/June%20Challenge/14.%20Cheapest%20Flights%20Within%20K%20Stops/Solution.java) |
+| Day 15 | [Search in a Binary Search Tree]() | [Solution]() |
+| Day 16 | [Validate IP Address]() | [Solution]() |
+| Day 17 | [Surrounded Regions]() | [Solution]() |
+| Day 18 | [H-Index II]() | [Solution]() |
 
 
