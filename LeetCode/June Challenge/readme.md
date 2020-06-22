@@ -20,6 +20,8 @@
 | Day 15 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Solution](https://github.com/rohitkumar-rk/Problem-Solving/blob/master/LeetCode/June%20Challenge/15.%20Search%20in%20a%20Binary%20Search%20Tree/Solution.java) |
 | Day 16 | [Validate IP Address](https://leetcode.com/problems/validate-ip-address/) | [Solution](https://github.com/rohitkumar-rk/Problem-Solving/blob/master/LeetCode/June%20Challenge/16.%20Validate%20IP%20Address/Solution.java) |
 | Day 17 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [Solution](https://github.com/rohitkumar-rk/Problem-Solving/blob/master/LeetCode/June%20Challenge/17.%20Surrounded%20Regions/Solution.java) |
-| Day 18 | [H-Index II]() | [Solution]() |
-
+| Day 18 | [H-Index II](https://leetcode.com/problems/h-index-ii/) | [Solution](https://github.com/rohitkumar-rk/Problem-Solving/blob/master/LeetCode/June%20Challenge/18.%20H%20Index%20-%20II/Solution.java) |
+| Day 19 | [Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/) | [Solution](https://github.com/rohitkumar-rk/Problem-Solving/blob/master/LeetCode/June%20Challenge/19.%20Longest%20Duplicate%20Substring/Solution.java) |
+| Day 20 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [Solution](https://github.com/rohitkumar-rk/Problem-Solving/blob/master/LeetCode/June%20Challenge/20.%20Permutation%20Sequence/Solution.java) |
+| Day 21 | [Dungeon Game]() | [Solution]() |
 
