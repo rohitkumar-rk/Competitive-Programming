@@ -23,5 +23,7 @@
 | Day 18 | [H-Index II](https://leetcode.com/problems/h-index-ii/) | [Solution](https://github.com/rohitkumar-rk/Problem-Solving/blob/master/LeetCode/June%20Challenge/18.%20H%20Index%20-%20II/Solution.java) | ![Medium](https://github.com/rohitkumar-rk/Problem-Solving/blob/master/Tags/medium.svg?raw=true) |
 | Day 19 | [Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/) | [Solution](https://github.com/rohitkumar-rk/Problem-Solving/blob/master/LeetCode/June%20Challenge/19.%20Longest%20Duplicate%20Substring/Solution.java) | ![Hard](https://github.com/rohitkumar-rk/Problem-Solving/blob/master/Tags/hard.svg?raw=true) |
 | Day 20 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [Solution](https://github.com/rohitkumar-rk/Problem-Solving/blob/master/LeetCode/June%20Challenge/20.%20Permutation%20Sequence/Solution.java) | ![Medium](https://github.com/rohitkumar-rk/Problem-Solving/blob/master/Tags/medium.svg?raw=true) |
-| Day 21 | [Dungeon Game]() | [Solution]() |
+| Day 21 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [Solution](https://github.com/rohitkumar-rk/Problem-Solving/blob/master/LeetCode/June%20Challenge/21.%20Dungeon%20Game/Solution.java) | ![Hard](https://github.com/rohitkumar-rk/Problem-Solving/blob/master/Tags/hard.svg?raw=true) |
+| Day 22 | Single Numeber II](https://leetcode.com/problems/single-number-ii/) | [Solution](https://github.com/rohitkumar-rk/Problem-Solving/blob/master/LeetCode/June%20Challenge/22.%20Single%20Numeber%20II/Solution.java) | ![Medium](https://github.com/rohitkumar-rk/Problem-Solving/blob/master/Tags/medium.svg?raw=true) |
+| Day 23 | [Dungeon Game]() | [Solution]() |
 
