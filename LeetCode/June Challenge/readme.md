@@ -26,5 +26,5 @@
 | Day 21 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [Solution](https://github.com/rohitkumar-rk/Problem-Solving/blob/master/LeetCode/June%20Challenge/21.%20Dungeon%20Game/Solution.java) | ![Hard](https://github.com/rohitkumar-rk/Problem-Solving/blob/master/Tags/hard.svg?raw=true) |
 | Day 22 | [Single Numeber II](https://leetcode.com/problems/single-number-ii/) | [Solution](https://github.com/rohitkumar-rk/Problem-Solving/blob/master/LeetCode/June%20Challenge/22.%20Single%20Numeber%20II/Solution.java) | ![Medium](https://github.com/rohitkumar-rk/Problem-Solving/blob/master/Tags/medium.svg?raw=true) |
 | Day 23 | [Count Complete Tree Nodes]() | [Solution]() |
-| Day 24 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [Solution]() | ![Medium](https://github.com/rohitkumar-rk/Problem-Solving/blob/master/Tags/medium.svg?raw=true) |
+| Day 24 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [Solution](https://github.com/rohitkumar-rk/Problem-Solving/blob/master/LeetCode/June%20Challenge/24.%20Unique%20Binary%20Search%20Trees/Solution.java) | ![Medium](https://github.com/rohitkumar-rk/Problem-Solving/blob/master/Tags/medium.svg?raw=true) |
 
