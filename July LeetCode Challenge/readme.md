@@ -1,4 +1,4 @@
-# [Jyly LeetCode Challenge 2020](https://github.com/rohitkumar-rk/Problem-Solving/tree/master/July%20LeetCode%20Challenge)
+# [July LeetCode Challenge 2020](https://github.com/rohitkumar-rk/Problem-Solving/tree/master/July%20LeetCode%20Challenge)
 
 
 | #             | Problem Statement| Solution (Java) | Difficulty |
