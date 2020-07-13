@@ -1,6 +1,8 @@
-# Contents
-Problems are Categorised on the basis of Platform.
+# [LeetCode Solutions](https://github.com/rohitkumar-rk/Problem-Solving/tree/master/LeetCode)
 
-## LeetCode
-[LeetCode June Challenge](https://github.com/rohitkumar-rk/Problem-Solving/blob/master/LeetCode%20June%20Challenge/readme.md)
+## Array
+
+| #             | Problem Statement| Solution |  Related Topics | Difficulty |
+| ----- | ------------- | ------------- |------------- | ------------- |
+| 1  | [](http)  | [View]() | Two Pointer |  ![Easy](https://github.com/rohitkumar-rk/Problem-Solving/blob/master/Tags/easy.svg?raw=true) |
 
