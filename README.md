@@ -10,5 +10,5 @@
 
 | #             | Title| Solution |  Related Topics | Difficulty |
 | ----- | ------------- | ------------- |------------- | ------------- |
-| 1  | [Two Sum](https://leetcode.com/problems/two-sum/)  | [View](./LeetCode/Array/1.%20Two%20Sum/Solution.java) | Hashing |  ![Easy](https://img.shields.io/badge/Easy-green) |
+| 1  | [Two Sum](https://leetcode.com/problems/two-sum/)  | [View](./LeetCode/Array/1.%20Two%20Sum/Solution.java) | Hashing |  ![Easy](./Tags/easy.svg) |
 
