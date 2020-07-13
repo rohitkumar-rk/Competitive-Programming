@@ -1,4 +1,5 @@
-/*
+/**
+
 @lc id : 1
 @problem : Two Sum
 @author : rohit
