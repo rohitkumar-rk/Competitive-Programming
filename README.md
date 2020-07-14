@@ -1,7 +1,6 @@
 ![Language](https://img.shields.io/badge/Language-Java-important)&nbsp;
 [![License](https://img.shields.io/badge/License-MIT-informational)](./LICENSE)&nbsp;
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rohitkumar-rk.Competitive-Programming)&nbsp;
-![commits](https://github-basic-badges.herokuapp.com/commits/rohitkumar-rk/Competitive-Programming.svg?color=green)<br><br>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=rohitkumar-rk.Competitive-Programming)&nbsp;<br><br>
 
 [![LeetCode June Challenge](https://img.shields.io/badge/LeetCode-June_Challenge-important)](./LeetCode%20June%20Challenge)&nbsp;&nbsp;&nbsp;
 [![LeetCode July Challenge](https://img.shields.io/badge/LeetCode-July_Challenge-brightgreen)](./July%20LeetCode%20Challenge)<br><br>
