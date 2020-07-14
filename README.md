@@ -1,5 +1,4 @@
-![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)&nbsp;
-<!--![Language](https://img.shields.io/badge/Language-Java-important)&nbsp; -->
+![Language](https://img.shields.io/badge/Language-Java-important)&nbsp;
 [![License](https://img.shields.io/badge/License-MIT-informational)](./LICENSE)&nbsp;
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rohitkumar-rk.Competitive-Programming)&nbsp;
 ![Last Commit](https://img.shields.io/github/last-commit/rohitkumar-rk/Competitive-Programming)<br><br>
@@ -14,4 +13,3 @@
 | #             | Title| Solution |  Related Topics | Difficulty |
 | ----- | ------------- | ------------- |------------- | ------------- |
 | 1  | [Two Sum](https://leetcode.com/problems/two-sum/)  | [View](./LeetCode/Array/1.%20Two%20Sum/Solution.java) | Hashing |  ![Easy](./Tags/easy.svg) |
-
