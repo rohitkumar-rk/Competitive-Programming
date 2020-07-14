@@ -2,7 +2,7 @@
 
 
 | #             | Problem Statement| Solution  | Related Topics | Difficulty |
-| ----- | ------------- | ------------- | ------------- |
+| ----- | ------------- | ------------- | ------------- | ---------------- |
 | Day 1  | [Arranging Coins](https://leetcode.com/problems/arranging-coins/)  | [View](./1.%20Arranging%20Coins/Solution.java) | Math, Binary Search | ![Easy](https://github.com/rohitkumar-rk/Problem-Solving/blob/master/Tags/easy.svg?raw=true) |
 | Day 2 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)  | [View](./2.%20%20Binary%20Tree%20Level%20Order%20Traversal%20II/Solution.java) | Tree, BFS | ![Easy](https://github.com/rohitkumar-rk/Problem-Solving/blob/master/Tags/easy.svg?raw=true) |
 | Day 3  | [Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/)  | Hashing |  [View](./3.%20Prison%20Cells%20After%20N%20Days/Solution.java) | ![Medium](https://github.com/rohitkumar-rk/Problem-Solving/blob/master/Tags/medium.svg?raw=true) |
