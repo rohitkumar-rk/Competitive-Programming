@@ -1,4 +1,5 @@
-/*
+/**
+
 @lc id : 957 Prison Cells After N Days
 @author : rohit
 @date : 03/07/2020
@@ -6,6 +7,7 @@
 */
 
 class Solution {
+    
     public int[] prisonAfterNDays(int[] cells, int n) {
         
         HashMap<String, Integer> map = new HashMap<>();
