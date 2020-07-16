@@ -1,5 +1,9 @@
-# [LeetCode June Challenge 2020](https://github.com/rohitkumar-rk/Problem-Solving/tree/master/LeetCode/June%20Challenge)
+![Programs](https://img.shields.io/badge/Programs-30-important) &nbsp; &nbsp; &nbsp;
+![Easy](https://img.shields.io/badge/Easy-8-lightgreen) &nbsp; &nbsp; &nbsp;
+![Medium](https://img.shields.io/badge/Medium-19-orange) &nbsp; &nbsp; &nbsp;
+![Hard](https://img.shields.io/badge/Hard-3-red) &nbsp; &nbsp; &nbsp;
 
+# [LeetCode June Challenge 2020](https://github.com/rohitkumar-rk/Problem-Solving/tree/master/LeetCode/June%20Challenge)
 
 | #             | Problem Statement| Solution  |  Related Topics | Difficulty |
 | ----- | ------------- | ------------- |------------- | ------------- |
