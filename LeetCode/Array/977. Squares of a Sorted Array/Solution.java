@@ -7,7 +7,6 @@
 @difficulty : easy 
 */
 
-
 class Solution {
     public int[] sortedSquares(int[] A) {
         
