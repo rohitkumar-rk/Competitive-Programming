@@ -1,6 +1,7 @@
 ![Language](https://img.shields.io/badge/Language-Java-important)&nbsp;
 [![License](https://img.shields.io/badge/License-MIT-informational)](./LICENSE)&nbsp;
-![Last Commit](https://img.shields.io/github/last-commit/rohitkumar-rk/Competitive-Programming)<br><br>
+![Last Commit](https://img.shields.io/github/last-commit/rohitkumar-rk/Competitive-Programming)
+ [![HitCount](http://hits.dwyl.com//rohitkumar-rk/Competitive-Programming.svg)](http://hits.dwyl.com//rohitkumar-rk/Competitive-Programming)<br><br>
 <!--![visitors](https://visitor-badge.glitch.me/badge?page_id=rohitkumar-rk.Competitive-Programming)&nbsp; -->
 
 
