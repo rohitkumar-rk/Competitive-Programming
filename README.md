@@ -19,7 +19,7 @@ Don't forget to give  a 🌟 to show your support !!!
 
 | #             | Title| Solution |  Related Topics | Difficulty |
 | ----- | ------------- | ------------- |------------- | ------------- |
-| 1  | [Two Sum](https://leetcode.com/problems/two-sum/)  | [View](./LeetCode/Array/1.%20Two%20Sum/Solution.java) | Hashing |  ![Easy](./Tags/hard.svg) |
+| 1  | [Two Sum](https://leetcode.com/problems/two-sum/)  | [View](./LeetCode/Array/1.%20Two%20Sum/Solution.java) | Hashing |  ![Easy](./Tags/easy.svg) |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)  | [View](./LeetCode/Array/4.%20Median%20of%20Two%20Sorted%20Arrays/Solution.java) |  |  ![Easy](./Tags/easy.svg) |
 |11| [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)  | [View](./LeetCode/Array/11.%20Container%20With%20Most%20Water/Solution.java) |  |  ![Easy](./Tags/medium.svg) |
 | 15 | [3 Sum](https://leetcode.com/problems/3sum/)  | [View](./LeetCode/Array/15.%203%20Sum/Solution.java) |  |  ![Easy](./Tags/medium.svg) |
