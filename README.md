@@ -36,7 +36,7 @@ Don't forget to give  a 🌟 to show your support !!!
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)  | [View](./LeetCode/Array/287.%20Find%20the%20Duplicate%20Number/Solution.java) |  |  ![Medium](./Tags/medium.svg) |
 | 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)  | [View](./LeetCode/Array/) |  |  ![Medium](./Tags/medium.svg) |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)  | [View](./LeetCode/Array/485.%20Max%20Consecutive%20Ones/Solution.java) |  |  ![Easy](./Tags/easy.svg) |
-| 581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)  | [View](./LeetCode/Array/Shortest Unsorted Continuous Subarray) |  |  ![Easy](./Tags/easy.svg) |
+| 581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)  | [View](581.%20Shortest%20Unsorted%20Continuous%20Subarray/Solution.java) |  |  ![Easy](./Tags/easy.svg) |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)  | [View](./LeetCode/Array/977.%20Squares%20of%20a%20Sorted%20Array/Solution.java) |  |  ![Easy](./Tags/easy.svg) |
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)  | [View](./LeetCode/Array/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits/Solution.java) |  |  ![Easy](./Tags/easy.svg) |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)  | [View](./LeetCode/Array/1470.%20Shuffle%20the%20Array/Solution.java) |  |  ![Easy](./Tags/easy.svg) |
