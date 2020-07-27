@@ -10,6 +10,16 @@
 This repository contains accepted solutions to various problems of HackerRank and LeetCode, all coded in Java. 
 Don't forget to give  a 🌟 to show your support !!!
 
+## Contents
+
+The problems of both HackerRank and LeetCode are grouped into various categories.  Contents are currently being updated. <br/>
+
+<b><a href="#leetcode-solutions">LeetCode</a></b>
+
+<ol>
+    <b><a href="#array"><li> Array </li> </a> </b>
+</ol>
+
 # [LeetCode Solutions](./LeetCode)
 
 [![LeetCode June Challenge](https://img.shields.io/badge/LeetCode-June_Challenge-important)](./LeetCode%20June%20Challenge)&nbsp;&nbsp;&nbsp;
@@ -55,4 +65,3 @@ Don't forget to give  a 🌟 to show your support !!!
     <b><a href="#overview">⬆️ Back to Top</a></b>
 </div>
 <br/>
-
