@@ -22,7 +22,7 @@ The problems of both HackerRank and LeetCode are grouped into various categories
 
 # [LeetCode Solutions](./LeetCode)
 
-[![LeetCode June Challenge](https://img.shields.io/badge/LeetCode-June_Challenge-important)](./LeetCode%20June%20Challenge)&nbsp;&nbsp;&nbsp;
+[![LeetCode June Challenge](https://img.shields.io/badge/LeetCode-June_Challenge-important)](./June%20LeetCode%20Challenge)&nbsp;&nbsp;&nbsp;
 [![LeetCode July Challenge](https://img.shields.io/badge/LeetCode-July_Challenge-brightgreen)](./July%20LeetCode%20Challenge)<br><br>
 
 ## Array
