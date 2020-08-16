@@ -76,9 +76,9 @@ The problems of both HackerRank and LeetCode are grouped into various categories
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)  | [View](./LeetCode//Linked-List/24.%20Swap%20Nodes%20in%20Pairs/Solution.java) |  ![Medium](./Tags/medium.svg) |
 |25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)  | [View](./LeetCode/Linked-List/25.%20Reverse%20Nodes%20in%20k-Group/Solution.java) |  ![Hard](./Tags/hard.svg) |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)  | [View](./LeetCode/Linked-List/141.%20Linked%20List%20Cycle/Solution.java) |  ![Medium](./Tags/medium.svg) |
-| 203 | []()  | [View](./LeetCode/Linked-List/) |  ![Medium](./Tags/medium.svg) |
-|206 | []()  | [View](./LeetCode/Linked-List/) |  ![Medium](./Tags/medium.svg) |
-|237 | []()  | [View](./LeetCode/Linked-List/) |  ![Medium](./Tags/medium.svg) |
-| 430 | []()  | [View](./LeetCode/Linked-List/) |  ![Medium](./Tags/medium.svg) |
-| 817  | []()  | [View](./LeetCode/Linked-List/) |  ![Medium](./Tags/medium.svg) |
-| 1290 | []()  | [View](./LeetCode/Linked-List/) |  ![Medium](./Tags/medium.svg) |
+| 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)  | [View](./LeetCode/Linked-List/203.%20Remove%20Linked%20List%20Elements/Solution.java) |  ![Easy](./Tags/easy.svg) |
+|206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)  | [View](./LeetCode/Linked-List/206.%20Reverse%20Linked%20List/Solution.java) |  ![Easy](./Tags/easy.svg) |
+|237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)  | [View](./LeetCode/Linked-List/237.%20Delete%20Node%20in%20a%20Linked%20List/Solution.java) |  ![Easy](./Tags/easy.svg) |
+| 430 | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)  | [View](./LeetCode/Linked-List/430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List/Solution.java) |  ![Medium](./Tags/medium.svg) |
+| 817  | [Linked List Components](https://leetcode.com/problems/linked-list-components)  | [View](./LeetCode/Linked-List/817.%20Linked%20List%20Components/Solution.java) |  ![Medium](./Tags/medium.svg) |
+| 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)  | [View](./LeetCode/Linked-List/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer/Solution.java) |  ![Easy](./Tags/easy.svg) |
