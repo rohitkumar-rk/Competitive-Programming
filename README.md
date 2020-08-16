@@ -72,7 +72,7 @@ The problems of both HackerRank and LeetCode are grouped into various categories
 | ----- | ------------- | ------------- | ------------- |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)  | [View](./LeetCode/Linked-List/2.%20Add%20Two%20Numbers/Solution.java) |    ![Medium](./Tags/medium.svg) |
 | 19 | [Remove Nth Node From End of List]()  | [View](./LeetCode/Linked-List/19.%20Remove%20Nth%20Node%20From%20End%20of%20List/Solution.java) |    ![Medium](./Tags/medium.svg) |
-|23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)  | [View](./LeetCode/Linked-List/Linked-List/23.%20Merge%20k%20Sorted%20Lists/Solution.java) |  ![Hard](./Tags/hard.svg) |
+|23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)  | [View](./LeetCode/Linked-List/23.%20Merge%20k%20Sorted%20Lists/Solution.java) |  ![Hard](./Tags/hard.svg) |
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)  | [View](./LeetCode//Linked-List/24.%20Swap%20Nodes%20in%20Pairs/Solution.java) |  ![Medium](./Tags/medium.svg) |
 |25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)  | [View](./LeetCode/Linked-List/25.%20Reverse%20Nodes%20in%20k-Group/Solution.java) |  ![Hard](./Tags/hard.svg) |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)  | [View](./LeetCode/Linked-List/141.%20Linked%20List%20Cycle/Solution.java) |  ![Medium](./Tags/medium.svg) |
