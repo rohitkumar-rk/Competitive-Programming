@@ -82,3 +82,9 @@ The problems of both HackerRank and LeetCode are grouped into various categories
 | 430 | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)  | [View](./LeetCode/Linked-List/430.%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List/Solution.java) |  ![Medium](./Tags/medium.svg) |
 | 817  | [Linked List Components](https://leetcode.com/problems/linked-list-components)  | [View](./LeetCode/Linked-List/817.%20Linked%20List%20Components/Solution.java) |  ![Medium](./Tags/medium.svg) |
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)  | [View](./LeetCode/Linked-List/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer/Solution.java) |  ![Easy](./Tags/easy.svg) |
+
+<br/>
+<div align="right">
+    <b><a href="#competitive-programming">⬆️ Back to Top</a></b>
+</div>
+<br/>
