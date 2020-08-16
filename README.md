@@ -18,6 +18,7 @@ The problems of both HackerRank and LeetCode are grouped into various categories
 
 <ol>
     <b><a href="#array"><li> Array </li> </a> </b>
+    <b><a href="#linked-list"><li> Linked List </li> </a> </b>
 </ol>
 
 # [LeetCode Solutions](./LeetCode)
