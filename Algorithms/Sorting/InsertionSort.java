@@ -30,8 +30,8 @@ public class InsertionSort {
 
 /*
 Time Complexity : Best Case - 	Ω(n)		
-				  Average Case - θ(n^2)
-				  Worst Case - O(n^2)
+		  Average Case - θ(n^2)
+		  Worst Case - O(n^2)
 
 Space Complexity : O(1)
 */
