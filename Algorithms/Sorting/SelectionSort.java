@@ -1,7 +1,7 @@
 /**
 *Approach : Approach for Selection Sort is 
 *Find minimum value from array and place it at 0th pos,
-*and then again find min and place it at 1st pos.
+*and then again find min and place it at 1st pos from rest of array.
 *Continue it (n-1) times.
 
 *For placing element, we swap min with ith index.
