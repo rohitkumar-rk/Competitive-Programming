@@ -1,4 +1,4 @@
-[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) [Easy]
+## [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) [Easy]
 
 Reverse a singly linked list.
 

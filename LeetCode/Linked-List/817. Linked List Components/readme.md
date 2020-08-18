@@ -1,4 +1,4 @@
-[Linked List Components](https://leetcode.com/problems/linked-list-components/) [Medium]
+# [Linked List Components](https://leetcode.com/problems/linked-list-components/) [Medium]
 
 We are given head, the head node of a linked list containing unique integer values.
 
