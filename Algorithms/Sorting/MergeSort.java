@@ -63,8 +63,8 @@ public class MergeSort {
 
 /*
 Time Complexity : Best Case - O(nlog(n))
-		  						Average Case - O(nlog(n))
-	          			Worst Case - O(nlog(n))
+		  Average Case - O(nlog(n))
+	          Worst Case - O(nlog(n))
 
 Space Complexity : O(n)
 */
