@@ -1,7 +1,7 @@
 
 public class BubbleSort {
 
-	public static void bubbleSort(int[] input){
+	public static int[] bubbleSort(int[] input){
 
 		boolean swapped;
 		for(int i = 0; i < input.length - 1; i++){
@@ -27,6 +27,8 @@ public class BubbleSort {
 			if(swapped == false)
 				break;
 		}
+
+		return input;
 
 	}
 
